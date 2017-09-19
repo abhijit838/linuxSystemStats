@@ -32,3 +32,8 @@ How to access linux system statistics
 ## All users: /etc/passwd
 
 
+#### References:
+http://echorand.me/site/notes/articles/python_linux/article.html
+https://ruslanspivak.com/lsbaws-part3/
+
+
